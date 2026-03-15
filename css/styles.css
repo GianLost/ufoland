@@ -157,15 +157,15 @@ body {
 
 /* HERO */
 .hero {
-    padding-top: 140px;
-    padding-bottom: 100px;
+    padding-top: 3.5rem;
+    padding-bottom: 1.5rem;
     background: var(--bg-main);
 }
 
 /* GRID */
 .hero-grid {
     display: grid;
-    grid-template-columns: 420px 1fr;
+    grid-template-columns: 28rem 1fr;
     gap: 6rem;
     align-items: center;
 }
@@ -674,7 +674,7 @@ footer {
 
     .editor-body pre {
         padding: 14px;
-        font-size: 12px;
+        font-size: 11px;
     }
 
 }

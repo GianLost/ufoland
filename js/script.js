@@ -106,6 +106,7 @@ class Program
     static void Main()
     {
         string message = "Hello World!";
+
         Console.WriteLine(message);
     }
 }`.trim(),
@@ -121,6 +122,7 @@ class Program
     {
         string name = "UFO TECH";
         string greeting = $"Welcome {name}!";
+        
         Console.WriteLine(greeting);
     }
 }`.trim(),
